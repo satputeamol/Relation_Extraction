@@ -1,0 +1,6 @@
+{
+    acquire:/path/to/acquired.txt,
+    funding:/path/to/fund.txt,
+    hire :/path/to/hire.txt,
+    new_offering:/path/to/launched.txt
+}
