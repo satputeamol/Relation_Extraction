@@ -21,7 +21,7 @@ modify the config.json
 # To Run
 python preprocessing.py
 python RelExt.py   
-# TO Predict
+# To Predict
 modify predict.py
 add your text in following line
 sentence = Sentence('add your text here for prediction')
